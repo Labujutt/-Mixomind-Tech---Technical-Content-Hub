@@ -5,10 +5,6 @@
 
 ---
 
-### 🖼️ Brand Identity & Creative Assets
-![Channel Banner and Logos](<img width="570" height="570" alt="image" src="https://github.com/user-attachments/assets/3a38cb52-ec4a-45ac-8814-06383f10224e" />)
-*(Tip: Apne channel ka banner aur kuch behtareen thumbnails upload karein aur unka naam 'mixomind-banner.png' rakhein)*
-
 ---
 
 ### 📝 Project Overview
